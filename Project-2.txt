@@ -1,0 +1,7 @@
+Title :- Trends in Global Development Indicators Over Time
+
+1) Here I used "Observablehq" for data analysis
+
+2) link to access "https://observablehq.com/d/24c304de69e81a61"
+
+3) Data Set Link:- https://databank.worldbank.org/source/world-development-indicators
